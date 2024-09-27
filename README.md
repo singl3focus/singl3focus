@@ -2,7 +2,8 @@
 As a student at SUAI, I am deeply passionate about software development, with a focus on programming in Go. My interests lie in exploring the depths of distributed systems and honing my skills in building robust and efficient applications. I am particularly intrigued by the world of blockchain technology and decentralized applications.
 
 Beyond my academic pursuits, I lead an active lifestyle, often found in the gym, on the football field, or playing volleyball. I also relish in the tranquility of nature through hiking and outdoor activities. Engaging in a wide range of extracurricular activities, I frequently participate in accelerators, hackathons, and other challenging events that allow me to further expand my knowledge and skills in the tech industry. 
-    
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singl3focus)](https://github.com/anuraghazra/github-readme-stats)    
   
 ### Social media: 📡    
 Write me a telegram. I will be happy to talk to you)
