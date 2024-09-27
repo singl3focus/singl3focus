@@ -12,12 +12,11 @@ Write me a telegram. I will be happy to talk to you)
 ### Algorithms [LeetCode](https://leetcode.com/u/TursunovImran/)
 
 ### Intrests: 🚀
-- Backend Development [Golang] - Main
+- Backend Development [Golang] - Primary
+- Additionally [Rust] - Secondaty
 - Machine Learning [Python] - hobby
-- Analytics [Python] - hobby
 - Open Source Projects
 - Web3 - hobby
-- Learning Rust - hobby
 
 ## Languages and Tools 
 <div>
