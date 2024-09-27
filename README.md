@@ -22,9 +22,11 @@ Write me a telegram. I will be happy to talk to you)
 <div>
 
 ### Languages:
-| Golang | Python3 |
+| Golang | Rust | Python3 |
 |----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Golang"  alt="Golang" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/>|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Golang"  alt="Golang" width="55" height="55"/> | 
+<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust"  alt="Rust" width="55" height="55"/> |
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
 
 
 
