@@ -1,3 +1,5 @@
+<h1 align="center">Welcome to my page my friend! 👋</h1>
+
 ## About Me:    
 As a student at SUAI, I am deeply passionate about software development, with a focus on programming in Go. My interests lie in exploring the depths of distributed systems and honing my skills in building robust and efficient applications. I am particularly intrigued by the world of blockchain technology and decentralized applications.
 
@@ -5,49 +7,46 @@ Beyond my academic pursuits, I lead an active lifestyle, often found in the gym,
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=singl3focus&show_icons=true&theme=radical)'
 
+### Intrests: 🚀
+- Backend Development [Golang] - Primary
+- Additionally [Rust, C] - Secondary
+- Open Source Projects
+- Web3, Machine Learning [Python] - hobby
+
+## Languages, Tools and Other 
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Golang-1?style=flat&logo=go&color=blue" alt="Golang" />  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&color=yellow" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-1?style=flat&logo=rust&color=red" alt="Rust" />
+  <img src="https://img.shields.io/badge/C-1?style=flat&logo=c&logoColor=white&color=blue" alt="C" />
+  <img src="https://img.shields.io/badge/SQL-1?style=flat&logo=sql&color=blue" alt="SQL" />
+   <br>
+
+  <!-- DB, Docker, Git, OS-->
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MSSQL-1?style=flat&logo=microsoftsqlserver&color=white" alt="MSSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitLab-1?style=flat&logo=gitlab&color=black" alt="GitLab" />
+  <img src="https://img.shields.io/badge/GitHub-1?style=flat&logo=github&color=black" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-1?style=flat&logo=linux&color=gray" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows-1?style=flat&color=blue" alt="Windows" />
+
+  <br>
+
+  <!-- Arch, -->
+  <img src="https://img.shields.io/badge/RestAPI-1?style=flat&color=red" alt="RestAPI" />
+  <img src="https://img.shields.io/badge/gRPC-1?style=flat&logo=grpc&color=purple" alt="gRPC" />
+  <img src="https://img.shields.io/badge/Kafka-1?style=flat&logo=kafka&color=green" alt="Kafka" />
+  <img src="https://img.shields.io/badge/RabbitMQ-1?style=flat&logo=rabbitmq&color=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/Swagger-1?style=flat&logo=swagger&logoColor=white&color=green" alt="Swagger" />
+
+</p>
+
+### Algorithms [LeetCode](https://leetcode.com/u/TursunovImran/)
+
 ### Social media: 📡    
 Write me a telegram. I will be happy to talk to you)
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/single_focus)
-
-### Algorithms [LeetCode](https://leetcode.com/u/TursunovImran/)
-
-### Intrests: 🚀
-- Backend Development [Golang] - Primary
-- Additionally [Rust] - Secondaty
-- Machine Learning [Python] - hobby
-- Open Source Projects
-- Web3 - hobby
-
-## Languages and Tools 
-<div>
-
-### Languages:
-| Golang | Rust | Python3 |
-|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Golang"  alt="Golang" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust"  alt="Rust" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/>|
-
-
-
-
-### My tools for Data Manipulation:
-
-| Conda | Jupyter | MySQL | Postgres | Redis |
-|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="55" height="55"/>|
-
-
-
-  
-### Environments, Testing, Other:
-
-| Git | Docker | Swagger | Postman | Virtual Box |
-|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="VB" alt="VB" width="80" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="Swagger" alt="Swagger" width="55" height="55"/>|
-
-
-### OS:
-
-| Linux | Ubuntu | Windows |
-|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg" title="Windows" alt="Windows" width="55" height="55"/> |
