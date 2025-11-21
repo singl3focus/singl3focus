@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my page my friend! 👋</h1>
 
 ## About Me:    
-As a student at SUAI, I am deeply passionate about software development, with a focus on programming in Go. My interests lie in exploring the depths of distributed systems and honing my skills in building robust and efficient applications. I am particularly intrigued by the world of blockchain technology and decentralized applications.
+I am deeply passionate about software development, with a focus on programming in Go. My interests lie in exploring the depths of distributed systems and honing my skills in building robust and efficient applications.
 
 Beyond my academic pursuits, I lead an active lifestyle, often found in the gym, on the football field, or playing volleyball. I also relish in the tranquility of nature through hiking and outdoor activities. Engaging in a wide range of extracurricular activities, I frequently participate in accelerators, hackathons, and other challenging events that allow me to further expand my knowledge and skills in the tech industry. 
 
@@ -9,9 +9,8 @@ Beyond my academic pursuits, I lead an active lifestyle, often found in the gym,
 
 ### Intrests: 🚀
 - Backend Development [Golang] - Primary
-- Additionally [Rust, C] - Secondary
-- Open Source Projects
-- Web3, Machine Learning [Python] - hobby
+- AI [Python] - Secondary
+- Other: Rust, C
 
 ## Languages, Tools and Other 
 
