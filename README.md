@@ -42,10 +42,3 @@ Beyond my academic pursuits, I lead an active lifestyle, often found in the gym,
   <img src="https://img.shields.io/badge/Swagger-1?style=flat&logo=swagger&logoColor=white&color=green" alt="Swagger" />
 
 </p>
-
-### Algorithms [LeetCode](https://leetcode.com/u/TursunovImran/)
-
-### Social media: 📡    
-Write me a telegram. I will be happy to talk to you)
-
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/single_focus)
